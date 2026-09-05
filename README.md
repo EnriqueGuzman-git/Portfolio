@@ -1,6 +1,6 @@
 # Jose Enrique Guzman Romero
 
-![Jose Enrique Guzman Romero](https://github.com/EnriqueGuzman.png)
+![Jose Enrique Guzman Romero]
 
 **Senior Full Stack Engineer**  
 jenriqueguzmandev@gmail.com | Jalisco, Mexico
