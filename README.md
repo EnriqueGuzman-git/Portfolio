@@ -41,7 +41,7 @@ Ualá | Buenos Aires, Argentina (remote) — Mar 2017 – Mar 2020
 ## Skills
 **Frontend:** React.js, Vue.js, Angular, JavaScript, TypeScript  
 **Backend:** Java, Spring Boot, Python, Node.js, REST APIs, Microservices  
-**Architecture:** System Design, Distributed Systems, Event-Driven Architecture, Scalability ENgineering  
+**Architecture:** System Design, Distributed Systems, Event-Driven Architecture, Scalability Engineering  
 **Databases:** PostgreSQL, SQL Server, MongoDB, MySQL  
 **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, CI/CD  
 **AI:** Large Language Models (LLMs), RAG, Prompt Engineering, AI Workflow Automation
