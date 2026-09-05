@@ -39,13 +39,13 @@ Ualá | Buenos Aires, Argentina (remote) — Mar 2017 – Mar 2020
 - Designed and implemented responsive web applications using React, TypeScript, JavaScript, HTML, and CSS.
 
 ## Skills
-**Frontend:** React.js, Vue.js, Angular, TypeScript  
-**Backend:** Java, Spring Boot, Node.js, REST APIs  
-**Databases:** PostgreSQL, SQL Server, MongoDB  
+**Frontend:** React.js, Vue.js, Angular, JavaScript, TypeScript  
+**Backend:** Java, Spring Boot, Python, Node.js, REST APIs, Microservices 
+**Architecture:** System Design, Distributed Systems, Event-Driven Architecture, Scalability ENgineering
+**Databases:** PostgreSQL, SQL Server, MongoDB, MySQL  
 **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, CI/CD  
 **AI:** Large Language Models (LLMs), RAG, Prompt Engineering, AI Workflow Automation
 
 ## Contact
 jenriqueguzmandev@gmail.com  
-+52 33 3986 6122  
 Jalisco, Mexico
